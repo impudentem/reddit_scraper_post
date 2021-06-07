@@ -6,12 +6,10 @@
     "build": "tsc",
     "watch": "tsc -w"
   },
-  "devDependencies": {
+  "dependencies": {
     "@types/node-fetch": "^2.5.10",
     "@types/sqlite3": "^3.1.7",
-    "node-fetch": "^2.6.1"
-  },
-  "dependencies": {
+    "node-fetch": "^2.6.1",
     "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2"
   }
